@@ -35,7 +35,7 @@ Seguem alguns posts sobre temas novos que ajudam a justificar a empolgação mai
 
 ## Entendendo características
 
-O primeiro passo para lidar com dados é entendê-los e melhor jeito de fazer isso é visualizar os dados 👓
+O primeiro passo para lidar com dados é entendê-los e o melhor jeito de fazer isso é visualizar os dados 👓
 
 Os posts a seguir apresentam conceitos fundamentais que ajudam a entender características (ou atributos, do inglês features) e suas visualizações: 
 
