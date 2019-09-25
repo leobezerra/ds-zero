@@ -2,7 +2,7 @@
 
 Este repositório foi pensado para quem está tendo um primeiro contato com ciência de dados, mas ainda conhece mais a versão da propaganda do que a do mundo real 😉
 
-Ele é uma coleção dos melhores posts criados por alunos das disciplinas de Ciência de dados I e Mineração de Dados, ofertadas no Instituto Metrópole Digital (IMD) da Universidade Federal do Rio Grande do Norte (UFRN).
+Ele é uma coleção dos melhores posts criados por alunos das disciplinas de Ciência de dados I e Mineração de Dados, ofertadas no [Instituto Metrópole Digital (IMD)](https://imd.ufrn.br) da [Universidade Federal do Rio Grande do Norte (UFRN)](https://ufrn.br).
 
 ---
 
