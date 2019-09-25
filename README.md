@@ -20,7 +20,7 @@ Para ampliar essa discussão, leia pelo menos um capítulo deste livro de 1954: 
 
 O termo ciência de dados é relativamente novo, mas a área é bem antiga.
 
-Seguem alguns posts sobre temas novos que ajudam a justificar a empolgação mais recente com ciência de dados: 
+Seguem alguns posts sobre temas novos que ajudam a justificar a empolgação mais recente: 
 
 1. Ciência de dados [em tempo real](https://medium.com/@danilommgalvao/ciência-de-dados-em-tempo-real-1430da6c969e)
 1. Ciência de dados [abertos](https://medium.com/@pedroarthurmf/uma-introdução-ao-conceito-de-dados-abertos-9ebfc176e24)
