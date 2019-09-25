@@ -37,7 +37,7 @@ Seguem alguns posts sobre temas novos que ajudam a justificar a empolgação mai
 
 O primeiro passo para lidar com dados é entendê-los e melhor jeito de fazer isso é visualizar os dados 👓
 
-Os posts a seguir apresentam conceitos fundamentais sobre características, que ajudam a entender dados e gráficos: 
+Os posts a seguir apresentam conceitos fundamentais que ajudam a entender características (ou atributos, do inglês features) e suas visualizações: 
 
 1. [Tipos](https://medium.com/@will.lucen4/tipos-de-atributos-e-dados-7d89f47b4c8d)
 1. [Distribuições](https://medium.com/@magusklutus/tipos-de-distribuições-e-representações-d98cee78beed)
