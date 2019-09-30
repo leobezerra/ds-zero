@@ -32,12 +32,23 @@ Seguem alguns posts sobre temas novos que ajudam a justificar a empolgação mai
 
 ---
 
+## Dados tabulares
 
-## Entendendo características
+O primeiro passo para lidar com dados é entendê-los.
 
-O primeiro passo para lidar com dados é entendê-los e o melhor jeito de fazer isso é visualizar os dados 👓
+O caso de aplicação mais simples é o de dados tabulares. [Este post](https://medium.com/@leobezerra_90682/tabs-commas-and-dataframes-187adf928654) ajuda a entender este conceito.
 
-Os posts a seguir apresentam conceitos fundamentais que ajudam a entender características (ou atributos, do inglês features) e suas visualizações: 
+Nesse caso, entender dados é entender atributos (do inglês *features*) e observações. 
+
+---
+
+## Entendendo atributos
+
+Alguns tipos de ferramentas são muito úteis para entender atributos: dicionários, estatística descritiva e visualizações de dados 👓
+
+Um **dicionário de dados** é um documento que explica o significado e possíveis valores de cada atributo e é essencial pra entender o domínio da aplicação.
+
+Os posts a seguir apresentam conceitos fundamentais de estatística descritiva e visualização de atributos: 
 
 1. [Tipos](https://medium.com/@will.lucen4/tipos-de-atributos-e-dados-7d89f47b4c8d)
 1. [Distribuições](https://medium.com/@magusklutus/tipos-de-distribuições-e-representações-d98cee78beed)
