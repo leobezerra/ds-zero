@@ -58,3 +58,8 @@ Os posts a seguir apresentam conceitos fundamentais de estatística descritiva e
 1. [Seleção](https://medium.com/@airtonneto/seleção-de-atributos-para-data-science-e-machine-learning-2842c63fc59f)
 1. [Extração](https://medium.com/@gilneyjnr/extração-de-características-ciência-de-dados-dd041bcff72b)
 1. [Redução de dimensionalidade](https://medium.com/@lucasgmpaiva1/redução-de-dimensionalidade-6b98b360ff6a)
+
+## Agrupamento
+
+1.
+1. [Agrupamento hierárquico](https://medium.com/@will.lucena/agrupamento-hier%C3%A1rquico-329e30a9f32d)
