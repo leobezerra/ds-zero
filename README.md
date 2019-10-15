@@ -59,7 +59,19 @@ Os posts a seguir apresentam conceitos fundamentais de estatística descritiva e
 1. [Extração](https://medium.com/@gilneyjnr/extração-de-características-ciência-de-dados-dd041bcff72b)
 1. [Redução de dimensionalidade](https://medium.com/@lucasgmpaiva1/redução-de-dimensionalidade-6b98b360ff6a)
 
-# Entendendo observações
+--- 
+
+## Explorando seus dados I
+
+Um tipo de entrevista de emprego comum na área de ciência de dados é ser apresentado a um dataset e ter que explorá-lo brevemente, mostrando os insights que você consegue extrair dele.
+
+Na verdade, sempre que nos deparamos com um novo problema em ciência de dados, precisamos dessa etapa de **análise exploratória de dados**.
+
+Quer um exemplo? [Este kernel](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard) do Kaggle aplica vários dos conceitos discutidos nos posts acima.
+
+---
+
+## Entendendo observações
 
 Para entender as observações presentes em um conjunto de dados, podemos usar visualizações interativas e análise de agrupamentos. 
 
