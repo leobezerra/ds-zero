@@ -59,7 +59,17 @@ Os posts a seguir apresentam conceitos fundamentais de estatística descritiva e
 1. [Extração](https://medium.com/@gilneyjnr/extração-de-características-ciência-de-dados-dd041bcff72b)
 1. [Redução de dimensionalidade](https://medium.com/@lucasgmpaiva1/redução-de-dimensionalidade-6b98b360ff6a)
 
-## Agrupamento
+# Entendendo observações
 
-1.
+Para entender as observações presentes em um conjunto de dados, podemos usar visualizações interativas e análise de agrupamentos. 
+
+Os posts a seguir apresentam conceitos fundamentais relacionados as estas ferramentas:
+
+1. Visualização interativa
 1. [Agrupamento hierárquico](https://medium.com/@will.lucena/agrupamento-hier%C3%A1rquico-329e30a9f32d)
+1. Qualidade de agrupamentos
+1. Similaridade manual de observações
+1. Agrupamento baseado em centróides
+1. Agrupamento baseado em densidade
+1. Agrupamento baseado em distribuição
+1. Similaridade supervisionada de observações
