@@ -1,4 +1,4 @@
-# Ciência de dados antes da predição
+﻿# Ciência de dados antes da predição
 
 Este repositório foi pensado para quem está tendo um primeiro contato com ciência de dados, mas ainda conhece mais a versão da propaganda do que a do mundo real 😉
 
@@ -77,7 +77,7 @@ Para entender as observações presentes em um conjunto de dados, podemos usar v
 
 Os posts a seguir apresentam conceitos fundamentais relacionados as estas ferramentas:
 
-1. Visualização interativa
+1. [Visualização interativa](https://medium.com/@moises.catonio/uma-breve-introdu%C3%A7%C3%A3o-%C3%A0-visualiza%C3%A7%C3%A3o-de-dados-interativa-dd516fe1f478)
 1. [Agrupamento hierárquico](https://medium.com/@will.lucena/agrupamento-hier%C3%A1rquico-329e30a9f32d)
 1. Qualidade de agrupamentos
 1. Similaridade manual de observações
