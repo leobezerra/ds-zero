@@ -1,4 +1,4 @@
-# Ciência de dados antes da predição
+﻿# Ciência de dados antes da predição
 
 Este repositório foi pensado para quem está tendo um primeiro contato com ciência de dados, mas ainda conhece mais a versão da propaganda do que a do mundo real 😉
 
@@ -64,6 +64,29 @@ Os posts a seguir apresentam conceitos fundamentais de estatística descritiva e
 1. [NBA dataset](https://medium.com/@will.lucena/nba-dataset-analise-explorat%C3%B3ria-de-dados-eda-335225991ac2)
 
 ## Agrupamento
+--- 
 
-1.
+## Explorando seus dados I
+
+Um tipo de entrevista de emprego comum na área de ciência de dados é ser apresentado a um dataset e ter que explorá-lo brevemente, mostrando os insights que você consegue extrair dele.
+
+Na verdade, sempre que nos deparamos com um novo problema em ciência de dados, precisamos dessa etapa de **análise exploratória de dados**.
+
+Quer um exemplo? [Este kernel](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard) do Kaggle aplica vários dos conceitos discutidos nos posts acima.
+
+---
+
+## Entendendo observações
+
+Para entender as observações presentes em um conjunto de dados, podemos usar visualizações interativas e análise de agrupamentos. 
+
+Os posts a seguir apresentam conceitos fundamentais relacionados as estas ferramentas:
+
+1. [Visualização interativa](https://medium.com/@moises.catonio/uma-breve-introdu%C3%A7%C3%A3o-%C3%A0-visualiza%C3%A7%C3%A3o-de-dados-interativa-dd516fe1f478)
 1. [Agrupamento hierárquico](https://medium.com/@will.lucena/agrupamento-hier%C3%A1rquico-329e30a9f32d)
+1. Qualidade de agrupamentos
+1. Similaridade manual de observações
+1. Agrupamento baseado em centróides
+1. Agrupamento baseado em densidade
+1. Agrupamento baseado em distribuição
+1. Similaridade supervisionada de observações
