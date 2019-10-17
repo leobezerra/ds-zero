@@ -59,6 +59,10 @@ Os posts a seguir apresentam conceitos fundamentais de estatística descritiva e
 1. [Extração](https://medium.com/@gilneyjnr/extração-de-características-ciência-de-dados-dd041bcff72b)
 1. [Redução de dimensionalidade](https://medium.com/@lucasgmpaiva1/redução-de-dimensionalidade-6b98b360ff6a)
 
+## EDAs
+
+1. [NBA dataset](https://medium.com/@will.lucena/nba-dataset-analise-explorat%C3%B3ria-de-dados-eda-335225991ac2)
+
 ## Agrupamento
 
 1.
