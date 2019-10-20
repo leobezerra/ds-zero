@@ -71,6 +71,11 @@ Quer um exemplo? [Este kernel](https://www.kaggle.com/serigne/stacked-regression
 
 ---
 
+## Exploração dos Dados
+
+- [WebScraping, Python e Ordem da Câmara dos Deputados](https://medium.com/@_gabiCavalcante/webscraping-python-e-ordem-da-c%C3%A2mara-dos-deputados-f6b46a088228)
+---
+
 ## Entendendo observações
 
 Para entender as observações presentes em um conjunto de dados, podemos usar visualizações interativas e análise de agrupamentos. 
