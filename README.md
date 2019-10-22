@@ -59,11 +59,6 @@ Os posts a seguir apresentam conceitos fundamentais de estatística descritiva e
 1. [Extração](https://medium.com/@gilneyjnr/extração-de-características-ciência-de-dados-dd041bcff72b)
 1. [Redução de dimensionalidade](https://medium.com/@lucasgmpaiva1/redução-de-dimensionalidade-6b98b360ff6a)
 
-## EDAs
-
-1. [NBA dataset](https://medium.com/@will.lucena/nba-dataset-analise-explorat%C3%B3ria-de-dados-eda-335225991ac2)
-
-## Agrupamento
 --- 
 
 ## Explorando seus dados I
@@ -73,6 +68,10 @@ Um tipo de entrevista de emprego comum na área de ciência de dados é ser apre
 Na verdade, sempre que nos deparamos com um novo problema em ciência de dados, precisamos dessa etapa de **análise exploratória de dados**.
 
 Quer um exemplo? [Este kernel](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard) do Kaggle aplica vários dos conceitos discutidos nos posts acima.
+
+Outros exemplos:
+
+1. [NBA dataset](https://medium.com/@will.lucena/nba-dataset-analise-explorat%C3%B3ria-de-dados-eda-335225991ac2)
 
 ---
 
