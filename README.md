@@ -89,3 +89,10 @@ Os posts a seguir apresentam conceitos fundamentais relacionados as estas ferram
 1. Agrupamento baseado em densidade
 1. Agrupamento baseado em distribuição
 1. Similaridade supervisionada de observações
+
+---
+
+## Explorando suas dados II
+
+[Este post](https://medium.com/@leobezerra_90682/clustering-in-detail-b439f31c56b7?sk=05025c2eb3d2b101ac693a8ce013dd3b) é um exemplo de como aplicar os conceitos acima ao analisar um dataset. 
+
