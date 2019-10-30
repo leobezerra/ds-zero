@@ -83,7 +83,7 @@ Os posts a seguir apresentam conceitos fundamentais relacionados as estas ferram
 
 1. [Visualização interativa](https://medium.com/@moises.catonio/uma-breve-introdu%C3%A7%C3%A3o-%C3%A0-visualiza%C3%A7%C3%A3o-de-dados-interativa-dd516fe1f478)
 1. [Agrupamento hierárquico](https://medium.com/@will.lucena/agrupamento-hier%C3%A1rquico-329e30a9f32d)
-1. Qualidade de agrupamentos
+1. [Qualidade de agrupamentos](https://medium.com/@gilneyjnr/qualidade-de-agrupamentos-ci%C3%AAncia-de-dados-4b1176bef5e5)
 1. [Similaridade manual de observações](https://medium.com/@iuricpaiva_3212/similaridade-manual-de-observa%C3%A7%C3%B5es-9e18897fe7b5)
 1. Agrupamento baseado em centróides
 1. Agrupamento baseado em densidade
