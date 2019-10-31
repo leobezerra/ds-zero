@@ -87,7 +87,7 @@ Os posts a seguir apresentam conceitos fundamentais relacionados as estas ferram
 1. [Similaridade manual de observações](https://medium.com/@iuricpaiva_3212/similaridade-manual-de-observa%C3%A7%C3%B5es-9e18897fe7b5)
 1. Agrupamento baseado em centróides
 1. Agrupamento baseado em densidade
-1. Agrupamento baseado em distribuição
+1. [Agrupamento baseado em distribuição](https://colab.research.google.com/drive/1uoMsQ3Zl7vM2jOBldA28WOfyH0eeqDKz)
 1. Similaridade supervisionada de observações
 
 ---
