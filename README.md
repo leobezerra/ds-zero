@@ -72,8 +72,6 @@ Quer um exemplo? [Este kernel](https://www.kaggle.com/serigne/stacked-regression
 Outros exemplos:
 
 1. [NBA dataset](https://medium.com/@will.lucena/nba-dataset-analise-explorat%C3%B3ria-de-dados-eda-335225991ac2)
-1. [keywords relevance](https://medium.com/@duardopx_2097/an%C3%A1lise-explorat%C3%B3ria-11d0490e1d4f)
-
 ---
 
 ## Entendendo observações
