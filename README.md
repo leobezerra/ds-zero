@@ -72,7 +72,7 @@ Quer um exemplo? [Este kernel](https://www.kaggle.com/serigne/stacked-regression
 Outros exemplos:
 
 1. [NBA dataset](https://medium.com/@will.lucena/nba-dataset-analise-explorat%C3%B3ria-de-dados-eda-335225991ac2)
-2. [Ordem da Câmara dos Deputados](https://medium.com/@_gabiCavalcante/webscraping-python-e-ordem-da-c%C3%A2mara-dos-deputados-f6b46a088228)
+2. [Ordem da Câmara Municipal de Natal](https://medium.com/@_gabiCavalcante/webscraping-python-e-ordem-da-c%C3%A2mara-dos-deputados-f6b46a088228)
 ---
 
 ## Entendendo observações
