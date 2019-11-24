@@ -88,7 +88,7 @@ Os posts a seguir apresentam conceitos fundamentais relacionados as estas ferram
 1. [Agrupamentos baseados em centroides](https://medium.com/@magusklutus/agrupamentos-baseados-em-centroides-69d45281003a)
 1. [Agrupamento baseado em densidade](https://medium.com/@joomendes/agrupamento-baseado-em-densidade-1a9212692a41)
 1. [Agrupamento baseado em distribuição](https://colab.research.google.com/drive/1uoMsQ3Zl7vM2jOBldA28WOfyH0eeqDKz)
-1. Similaridade supervisionada de observações
+1. [Similaridade supervisionada de observações](https://medium.com/@nicolas.limaverde/similaridade-supervisionada-de-observa%C3%A7%C3%B5es-4cc7b06b717a)
 
 ---
 
